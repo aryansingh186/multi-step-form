@@ -36,7 +36,7 @@ Usage:
 
 Clone the repository:
 
-git clone https://github.com/username/multi-step-form.git
+git clone https://github.com/aryansingh186/multi-step-form.git
 
 
 Open index.html in your browser.
